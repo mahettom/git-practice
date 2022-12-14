@@ -1,3 +1,3 @@
 name : Tom
 age : 25
-favoriteColor : Green
+favoriteColor : All of them but more specially green
